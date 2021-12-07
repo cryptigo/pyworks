@@ -9,7 +9,7 @@ WIN_TITLE  = "Pygame-skeleton"
 ICON_FILE     = "core/res/img/icon.png" 
 
 # Fonts
-UI_FONT_FILE  = "core/res/font/open_sans.ttf"
+UI_FONT_FILE  = None
 UI_FONT_SIZE  = 14
 
 
