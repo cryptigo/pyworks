@@ -1,0 +1,1 @@
+# any important functions that need to be static are stored here
